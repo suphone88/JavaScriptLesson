@@ -2,10 +2,7 @@
 
 #For Api
 # dependencies
-/api/node_modules
-/api/package-lock.json
-/.pnp
-.pnp.js
+
 
 #For Frontend
 /showdata/node_modules
